@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is update3
+=======
+this is update 1
+
+>>>>>>> nkp
